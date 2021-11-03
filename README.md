@@ -1,5 +1,6 @@
-## tsoha-bwc
- 
+## Kurssi:
+Tsoha syksy 2021
+
 ## Päiväys:
 3.11.2021
 
