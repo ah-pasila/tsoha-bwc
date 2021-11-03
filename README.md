@@ -23,4 +23,5 @@ Sovellukseen tallennetaan tiedot käyttäjien omistamista kirjoista ja jaetaan k
 - Käyttäjät pääsevät tutkimaan karttaa, joka kertoo missä käyttäjien kotikirjastot sijaitsevat.
 - Käyttäjät voivat tehdä toiselle käyttäjälle lainauspyynnön kirjasta. Jos lainauspyyntö hyväksytään, kirjaan liitetään lainaustiedot (lainauksen tila = lainattu, kenelle se on 
 lainattu, milloin lainattu, milloin palautettava). Kun kirja on palautettu, lainauksen tila merkataan palautetuksi. 
-- Analytiikkanäkymä: parhaiksi arvioidut kirjat, käyttäjien yleisimmin omistajat kirjat, eniten lainatut kirjat ja sivumääriltään paksuimmat kirjat. 
+- Analytiikkanäkymä 1: parhaiksi arvioidut kirjat, käyttäjien yleisimmin omistajat kirjat, eniten lainatut kirjat ja sivumääriltään paksuimmat kirjat. 
+- Analytiikkanäkymä 2: eniten kirjoja omistava käyttäjä, eniten arviointeja tehnyt käyttäjä, eniten lainannut käyttäjä.
